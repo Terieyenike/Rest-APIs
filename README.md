@@ -23,6 +23,10 @@ Define a set of functions which developers can perform request and receive respo
 
 MongoDB
 
+# Tool for testing the route
+
+[Postman](https://www.getpostman.com/)
+
 # Author
 
 Teri Eyenike
